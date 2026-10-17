@@ -1,0 +1,2 @@
+curl -X POST "https://api.telegram.org/bot8950716355:AAFsNVigf1JDg4nv1IGVnLqNAQwUFH6MlVc/setWebhook?secret_token=secret123" \
+-d "url=https://mentor-bahasa-inggris-virtual-bot.fastapicloud.dev/webhook"
